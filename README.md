@@ -50,7 +50,7 @@
   - #### 가상화폐 데이터 나열하기.
 
   <div align="center">
-      <img src = ""> // 홈화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/128570bd-4cdc-4a2c-9969-ca151cfba9f6"> // 홈화면 캡쳐한 이미지 넣기
   </div>
 
   - data.js에 저장된 데이터를 가져와서 나열해준다.
@@ -58,7 +58,7 @@
   - #### Navbar에 Home, Q&A, Login 링크 나열
 
   <div align="center">
-      <img src = ""> // Navbar 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/75b31890-a562-4e42-b846-81008cf877ec"> // Navbar 캡쳐한 이미지 넣기
   </div>
 
   - Link, useNavigate와 onClick을 사용하여 Q&A 클릭시 해당 화면으로 이동한다.
@@ -69,19 +69,27 @@
   - #### 가상화폐 info 관련
 
   <div align="center">
-      <img src = ""> // Coininfo화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/1ef4d0d5-f978-4f91-9693-d1f5d8a94b52"> // Coininfo화면 캡쳐한 이미지 넣기
   </div>
 
   - useParams를 이용해 id를 가져온다.
   - 해당화면에는 각 id별 데이터를 가져와서 화면에 보여준다.
   - data는 props를 이용해 가져온다.
 
+
+  <div align="center>
+          <img src="https://github.com/knss12/bitcoin2/assets/121605903/fbc013c3-3505-46ee-8bea-33c1dfb45faa">
+  </div>
+
+  - movinginfo 함수를 만들어서 각 아이템을 클릭 시 아이템의 rank를 확인 후 일치하면 "/detail/rank의 id"로 이동하게 해준다.
+ 
+  
   ## Q&A 화면
 
   - #### 글올리기 및 삭제 기능
 
   <div align="center">
-      <img src = ""> // 게시된 글 모달 창 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/3afff6e6-9acb-44d2-88b2-40d57a20fde2"> // 게시된 글 모달 창 캡쳐한 이미지 넣기
   </div>
 
   - 게시된 글 제목을 클릭 시 상세 정보가 들어있는 모달창이 나타난다.
@@ -94,7 +102,7 @@
   - #### 잘못된 url 주소로 이동시 해당 화면이 나옴
 
   <div align="center">
-      <img src = ""> // NotFound 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/aa2b4767-a1e2-4ddb-b406-145c14deb834"> // NotFound 화면 캡쳐한 이미지 넣기
   </div>
 
   - useNavigate와 onClick을 이용해 메인 페이지로 이동이 가능하다.
@@ -104,7 +112,7 @@
   - #### 로그인 화면
 
   <div align="center">
-      <img src = ""> // 로그인 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/4b697370-4464-46d6-bfe7-0d6465997693"> // 로그인 화면 캡쳐한 이미지 넣기
   </div>
 
   - ID와 PW를 입력할 수 있는 input 제작
@@ -114,7 +122,7 @@
   - #### 회원가입(Account)화면
 
   <div align="center">
-      <img src = ""> // 회원가입 화면 캡쳐한 이미지 넣기
+      <img src = "https://github.com/knss12/bitcoin2/assets/121605903/ec9be82f-8972-47c9-bf8d-07309005250a"> // 회원가입 화면 캡쳐한 이미지 넣기
   </div>
 
   - 회원가입에 필요한 정보를 입력할 수 있는 input창 제작
